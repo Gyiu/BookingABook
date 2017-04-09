@@ -6,9 +6,9 @@ Semua tentang peminjaman buku.
 
 Tahap-tahap pengerjaan:
 1. Desain class Database <br />
-  a. connect to db. <br />
-  b. query with '?' as parameter. <br />
-  c. get result from query. <br />
+  a. connect to db. DONE <br />
+  b. query with '?' as parameter. DONE <br />
+  c. get result from query. DONE <br />
   d. throw error if necessary. <br />
   
 2. Desain class Privilege <br />
